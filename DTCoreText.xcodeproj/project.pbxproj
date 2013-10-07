@@ -2927,7 +2927,6 @@
 			buildSettings = {
 				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
 				COPY_PHASE_STRIP = NO;
-				DSTROOT = /tmp/DTCoreText.dst;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -2935,7 +2934,6 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = DTCoreText;
-				PUBLIC_HEADERS_FOLDER_PATH = ../../DTCoreText;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -2947,12 +2945,10 @@
 			buildSettings = {
 				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
 				COPY_PHASE_STRIP = YES;
-				DSTROOT = /tmp/DTCoreText.dst;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PREFIX_HEADER = "Core/DTCoreText-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = DTCoreText;
-				PUBLIC_HEADERS_FOLDER_PATH = ../../DTCoreText;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -3139,7 +3135,6 @@
 			buildSettings = {
 				CLANG_WARN_SUSPICIOUS_IMPLICIT_CONVERSION = YES;
 				COPY_PHASE_STRIP = NO;
-				DSTROOT = /tmp/DTCoreText.dst;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
@@ -3149,7 +3144,6 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_THUMB_SUPPORT = NO;
 				PRODUCT_NAME = DTCoreText;
-				PUBLIC_HEADERS_FOLDER_PATH = ../../DTCoreText;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
